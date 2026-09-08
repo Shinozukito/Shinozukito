@@ -12,7 +12,7 @@
   <i>I appreciate <b>C++</b>, <b>C#</b> and <b>Rust</b></i>
 </p>
 <p align="center">
-  <img width="350" height="116" src="languages.png">
+  <img width="150" height="50" src="languages.png">
 </p> 
 
 <div align="center"><h2>See you (not) soon ! 👋</h2></div>
