@@ -15,7 +15,7 @@
   <img width="150" height="50" src="languages.png">
 </p> 
 
-<div align="center"><h2>See you (not) soon ! 👋</h2></div>
+<div align="center"><h2>(not) See you soon ! 👋</h2></div>
 <p align="center">
   <img width="200" height="200" src="liam-bye.gif">
 </p> 
