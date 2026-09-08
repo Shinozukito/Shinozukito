@@ -9,7 +9,7 @@
   <br>
 I love open source though.
   <br>
-  One day i'll start contributing to something or maybe create something. But actually I don't have time and I'm too lazy 
+  One day i'll start contributing to something or maybe create something. But actually I don't have time and I'm too lazy. 
   <br>
   <i>I appreciate <b>C++</b>, <b>C#</b> and <b>Rust</b></i>
 </p>
