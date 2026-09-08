@@ -9,8 +9,11 @@
   <br>
   One day i'll start contributing to something or maybe create something. But right now I'm really too lazy and i have no time 
   <br>
-  <i>I appreciate <b>C++</b>, <b>C</b>, <b>Rust</b> and <b>C#</b></i>
+  <i>I appreciate <b>C++</b>, <b>C#</b> and <b>Rust</b></i>
 </p>
+<p align="center">
+  <img width="350" height="116" src="languages.png">
+</p> 
 
 <div align="center"><h2>See you (not) soon ! 👋</h2></div>
 <p align="center">
