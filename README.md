@@ -5,9 +5,11 @@
 
 <h1  align="center">Hello hello, welcome here !</h1>
 <p align="center">
-  Not bad, but I'm not motivated and I have no idea what to do. I love open source though.
+  Not a bad developper but I'm not motivated and I have no idea what to do.
   <br>
-  One day i'll start contributing to something or maybe create something. But right now I'm really too lazy and i have no time 
+I love open source though.
+  <br>
+  One day i'll start contributing to something or maybe create something. But actually I don't have time and I'm too lazy 
   <br>
   <i>I appreciate <b>C++</b>, <b>C#</b> and <b>Rust</b></i>
 </p>
@@ -15,7 +17,7 @@
   <img width="150" height="50" src="languages.png">
 </p> 
 
-<div align="center"><h2>(not) See you soon ! 👋</h2></div>
+<div align="center"><h2>See you soon ! (no) 👋</h2></div>
 <p align="center">
   <img width="200" height="200" src="liam-bye.gif">
 </p> 
