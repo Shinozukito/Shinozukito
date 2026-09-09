@@ -7,9 +7,9 @@
 <p align="center">
   Not a bad developper but I'm not motivated and I have no idea what to do.
   <br>
-  One day i'll start contributing to something or maybe create something. But actually I don't have time and I'm too lazy. 
+  One day i'll start contributing or maybe create something. But actually I don't have time and I'm too lazy. 
   <br>
-I love open source though.
+I love open source by the way. 
   <br>
   <i>I appreciate <b>C++</b>, <b>C#</b> and <b>Rust</b></i>
 </p>
